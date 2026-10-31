@@ -1,100 +1,100 @@
 {
   "apps": {
     "Age Calculator": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Age-Calculator/app.json",
-      "meta_sha256": "7411efb2c43733d39e2df2fedff6bc74b98a9fb7acd18958a0662021ddaeaccd",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Age-Calculator/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Age-Calculator/app.json",
+      "meta_sha256": "9e139dabba4d3cc07234515f1d3f3982a76cf7436fede3cc848e949bbe2da1e2",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Age-Calculator/main.js",
       "app_sha256": "401a808734b3b1841e49bfb9ce0c85e17418a9a3957c940619040df7c070b3d7",
       "api": 1
     },
     "Calculator": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Calculator/app.json",
-      "meta_sha256": "b09eb7bda35331c15bc05d33318fccf1684f198ca9bc737ffa896f380b75f058",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Calculator/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Calculator/app.json",
+      "meta_sha256": "368a0eaec7476eb553ebd0c9e8fcaa5ac5519b06bd7b676018ef1b2b03ff6a4e",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Calculator/main.js",
       "app_sha256": "0e19a2457a83401920d1bc0b925c2251114a5257e038050e41cd2e545c453a70",
       "api": 1
     },
     "Notepad": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Notepad/app.json",
-      "meta_sha256": "e7019ea728a556e8fe8a0ef1f415327762ca0b6b8357d2a7ed5eea012495be7d",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Notepad/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Notepad/app.json",
+      "meta_sha256": "6f3252040714636067250b536ee45932e93594c1cbce9ee7f2450a4bba7dfc7a",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Notepad/main.js",
       "app_sha256": "462aacf786d59083c179a2ce72b48c49a6dbc6e744946a8c6bcb4a8f583ab990",
       "api": 1
     },
     "OmniDict": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/OmniDict/app.json",
-      "meta_sha256": "561c4f7ce4b91b3edd121faeacef4f10ab2d75109d98546322d142b177052c89",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/OmniDict/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/OmniDict/app.json",
+      "meta_sha256": "dd60c650e805dfcb049936cba173e788b944beb9113fb30b1bb2c3e6cfa1b5d3",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/OmniDict/main.js",
       "app_sha256": "af8e64f7b4edd2b194381b5f0790d5ffe12e36ab5a26964b50e6e78ffa566b46",
       "api": 1
     },
     "Scientific calculator": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Scientific-calculator/app.json",
-      "meta_sha256": "291178ec2550b5c321306a5be34a8c0247dbce369ec833ee72785ca4f76694b9",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Scientific-calculator/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Scientific-calculator/app.json",
+      "meta_sha256": "3b2128765fcf3b9294c2166b63dd53b41f0be226f467f98da3faad6dcbf38a99",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Scientific-calculator/main.js",
       "app_sha256": "347dccc23a6cc6b8fe3608468e927c1c0ff21110e1fcc50cff4f2956fefcf10a",
       "api": 1
     },
     "Stopwatch": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Stopwatch/app.json",
-      "meta_sha256": "404bfe6927afcf3971075b9c66cda3c13b2bc9547026ef991c1aace55e180c7d",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/Stopwatch/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Stopwatch/app.json",
+      "meta_sha256": "0e829d8b2ee15ede104e81ee98d251feacaa47853dc03493603e069e42c1e58b",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/Stopwatch/main.js",
       "app_sha256": "1b906697cae28b9af0a813a34c3ce01dd9c7c550637b2fb4047f2bd5875ea6ec",
       "api": 1
     },
     "Advanced File Manager": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/advanced_file_manager/app.json",
-      "meta_sha256": "bf91c17277586f1d6766139d0396314a485967a507dd4b1cda0ccfb11a204d52",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/advanced_file_manager/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/advanced_file_manager/app.json",
+      "meta_sha256": "5b30402273ec0554f8bee99f97209b2bd7267fca6e1804c73a4d74288e87163f",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/advanced_file_manager/main.js",
       "app_sha256": "687093908f44a6e6e5b7d36a6e8faed34e7fd3f3ee89d0b32439c4df45003b38",
       "api": 1
     },
     "Benchmark": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/benchmark/app.json",
-      "meta_sha256": "e5f8b990afdd51dc7c4f9e7525ab6986fdb17c6262685ee117740d07af92e6d4",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/benchmark/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/benchmark/app.json",
+      "meta_sha256": "538e000bcd0f3643b26935ab123a877f60cfe147040f71f9f44a005b0170342b",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/benchmark/main.js",
       "app_sha256": "1e36d5e87ce761bd9842acc58ff4b328110de8ecce62ca3c83f4e793093d3574",
       "api": 1
     },
     "Calendar": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/calendar/app.json",
-      "meta_sha256": "090879894b8b52d7947a2c8220f144fddbf5f3cf58624a5b6ab6b7995f656663",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/calendar/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/calendar/app.json",
+      "meta_sha256": "abaffc6ce4b6d208ade843a752463a6edef2ab6ed03a1096b23c8aa1e9d9e25a",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/calendar/main.js",
       "app_sha256": "85bb684c6fc8c7b9427c9d31d2774f660c71a3b98f6637a4d1c0cf320b6c5ae2",
       "api": 1
     },
     "Clock": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/clock/app.json",
-      "meta_sha256": "5262126f1d7c534e6ae2d67435adfbdce8f5aa30d55bb2cec417b045b35ebe0b",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/clock/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/clock/app.json",
+      "meta_sha256": "03905cc422dc72de3c89aad9a5e458d9af5132572c4f8b879502208fb85c91d3",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/clock/main.js",
       "app_sha256": "43c7fa567ac40c0798b179186275d8b5cf074e097843af1964892d5c9e2511c1",
       "api": 1
     },
     "Paint": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/paint/app.json",
-      "meta_sha256": "cb9f05222d09c2ae36463898584ccb1381443bb6208c998c60a5f39e9d8f39a1",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/paint/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/paint/app.json",
+      "meta_sha256": "3149a7075a193b04d996c18e79a5b5d8958b49fcdb67289e4a258226b9d1345f",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/paint/main.js",
       "app_sha256": "394dea3364b98e04beb195e26989e51b7df584119429824b7511f997f906b662",
       "api": 1
     },
     "System Info": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/system_info_pro/app.json",
-      "meta_sha256": "f286ac6f44bc5b59ecb0580292243ee02b8d63402257a53330da5e3937155374",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/system_info_pro/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/system_info_pro/app.json",
+      "meta_sha256": "e194d79845482c4177db22c78231d60e4b02dc8def32eb03bd389401e1cd0cbc",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/system_info_pro/main.js",
       "app_sha256": "91e95829a57139b30b285e8b72679d7abd05b13700ff4437bf8c9b6c391092af",
       "api": 1
     },
     "TextPad": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/textpad/app.json",
-      "meta_sha256": "18d1c467f1ea1b73833ba2a2cc85a37cf74e60ad358dbd51805bfc84c67c19dc",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/textpad/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/textpad/app.json",
+      "meta_sha256": "4a98f3b07b27f600b4f8f55cb93ab5b3a4b692421745d753eb0c027ab6e8cb92",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/textpad/main.js",
       "app_sha256": "240413a5cee60de71b980657e0d62e439f30164c331ed0f5027dcac8573805ea",
       "api": 1
     },
     "Thermal Monitoring": {
-      "meta": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/thermals/app.json",
-      "meta_sha256": "bf67650ed617b90bf0d05973322eeead44a968484e92c7b867a23f3697946c2c",
-      "app": "https://raw.githubusercontent.com/Haris16-code/KryonOS-AppStore/refs/heads/main/categories/utilities/thermals/main.js",
+      "meta": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/thermals/app.json",
+      "meta_sha256": "7628de7419a281b2d6c07f4a5a3a686d9b7ccee42fd85080f1dada1579a78731",
+      "app": "https://raw.githubusercontent.com/shifat100/test_kryon/refs/heads/main/categories/utilities/thermals/main.js",
       "app_sha256": "4fffcafd4ba0d2b4da07cedbbaf0008662c3ae3ceb4388da6b188c86bb980e89",
       "api": 1
     }
