@@ -3,8 +3,8 @@ const path = require('path');
 const crypto = require('crypto');
 
 // Repository Configuration
-const REPO_OWNER = 'Haris16-code';
-const REPO_NAME = 'KryonOS-AppStore';
+const REPO_OWNER = 'shifat100';
+const REPO_NAME = 'test_kryon';
 const BRANCH = 'main';
 const BASE_RAW_URL = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/refs/heads/${BRANCH}`;
 
