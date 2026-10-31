@@ -1,0 +1,49 @@
+name: Auto-Generate App Registry
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'categories/**'
+      - 'scripts/generate-registry.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-registry:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Prevent Git Line-Ending Modification
+        run: |
+          git config --global core.autocrlf false
+          git config --global core.eol lf
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Registry Generator Script
+        run: node scripts/generate-registry.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage root index.json and all cleaned app.json, main.js, and category index.json files
+          git add index.json categories/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to the registry or app files detected."
+          else
+            git commit -m "chore: auto-update OS app registry, metaUrls, and SHA-256 hashes"
+            git push
+          fi
